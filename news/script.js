@@ -1,5 +1,5 @@
 fetch(
-  "https://newsapi.org/v2/everything?q=bitcoin&apikey=5d1c9e4e972144bf926ec8b7e3a9a206&pageSize=10"
+  "https://newsapi.org/v2/everything?q=fashion&apikey=5d1c9e4e972144bf926ec8b7e3a9a206&pageSize=10"
 )
   .then(function (response) {
     // console.log(resonse.body);
